@@ -1,0 +1,17 @@
+:root {
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans', sans-serif;
+    --dark-cyan: hsl(185, 75%, 39%);
+    --dark-blue: hsl(229, 23%, 23%);
+    --dark-gray-blue: hsl(227, 10%, 46%);
+    --light-gray: hsl(0, 0%, 59%);
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+
+body {
+    font-size: 1.125rem; /* 18px */
+}
