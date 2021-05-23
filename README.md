@@ -1,4 +1,4 @@
-# profile-card-component
+# Profile card component
 This project it's a clone from Frontend Mentor (https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ), with the goal of improving my skills in Front End development.
 
 ## :hammer: Built with
